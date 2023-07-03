@@ -1,0 +1,11 @@
+{
+  "title": "Cleaner Site",
+  "description": "Removes some gradients and makes the Scratch website look cleaner.",
+  "credits": [
+    { "username": "MINGCHIGO", "url": "https://scratch.mit.edu/users/MINGCHIGO/" }
+  ],
+  "type": ["Website"],
+  "tags": ["New"],
+  "scripts": [{ "file": "script.js", "runOn": "*" }],
+  "styles": [{ "file": "style.css", "runOn": "*" }]
+}
